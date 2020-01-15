@@ -1,0 +1,1 @@
+gxtbuilder italian.ini -vc
