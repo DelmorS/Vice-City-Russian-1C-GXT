@@ -160,6 +160,9 @@ BOBCAT    Bobcat
 BOLLOX    Press the ~h~~k~~VEHICLE_HANDBRAKE~ ~w~button to drop a bomb. Press the ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~button to cancel.
 BONUS     ~g~BONUS $~1~
 BOXVILL   Boxville
+BRB_ASK   Pay 2000$ bribe to buy back your weapon? ~w~Press~h~ ~k~~PED_ANSWER_PHONE~ ~w~to pay. ~k~~VEHICLE_ENTER_EXIT~ ~w~to cancel.
+BRB_NOM   You need ~h~$2000~w~ to buy back your weapon.
+BRB_NOW   You had no weapon with you.
 BRIBE1    You have just picked up a police bribe, this will reduce your wanted level by one star.
 BRID_CL   Storm warning: All bridges to the mainland are closed.
 BRID_OP   Storm warning over, all bridges to the mainland are now open.
@@ -1142,7 +1145,7 @@ FELD_WR   Loading game. Please wait...
 FEL_ENG   English
 FEL_FRE   French
 FEL_GER   German
-FEL_ITA   Italian
+FEL_ITA   Russian
 FEL_SPA   Spanish
 FEM_FRM   FRAME LIMITER
 FEM_LOD   DRAW DISTANCE
