@@ -64,6 +64,7 @@ ASS_1     Rub Out
 ATUTOR    Press the ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~button to toggle Paramedic missions on or off.
 ATUTOR3   Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle Paramedic missions on or off.
 AUG       Aug
+AUTOSAV   Game saved.
 AVERY     AVERY MISSIONS
 A_PORT    Escobar International
 A_TIME    +~1~ seconds
