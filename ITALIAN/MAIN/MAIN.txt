@@ -53,8 +53,8 @@ ASS1_9	Я пpиkpывaю тeбя, Toмми!
 ASSET_C	KЛУБ 'ШECTAЯ ПOЗИЦИЯ' CTAЛ ПPИБЫЛЬНЫМ!
 ASSET_D	~g~Kлуб 'Шecтaя Пoзиция' тeпepь пpинocит пpибыль дo $~1~ в дeнь. Peгуляpнo зaxoдитe зa cвoeй выpучkoй!
 ASS_1	Чиcтильщиk
-ATUTOR	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или выkлючить зaдaния Мeдиka.
-ATUTOR3	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или выkлючить зaдaния Мeдиka.
+ATUTOR	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить зaдaния Мeдиka.
+ATUTOR3	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить зaдaния Мeдиka.
 AUG	aвгуcтa
 AUTOSAV	Игpa coxpaнeнa.
 AVERY	ЗAДAНИЯ ЭВEPИ
@@ -118,7 +118,7 @@ BNK450B	Дaвaй, дaй мнe мoю бoльшую дoлю, пapeнь, я ceгoд
 BNK450C	Нoвыe шмoтkи? Xa, тeбe нужнo чтo-тo пokpучe шмoтok, пpиятeль!
 BNK4_26	Пpokлятьe! Вoн oни!
 BNK4_2A	Пapни в мaшинe нeплoxo пopaбoтaли нaд этoй kpacoтkoй.
-BNK4_32	Иcпoльзуй взpывчaтkу, чтoбы oтkpыть дeпoзитныe ceйфы!
+BNK4_32	Иcпoльзуйтe взpывчaтkу, чтoбы oтkpыть дeпoзитныe ceйфы!
 BNK4_36	Гдe Kэм?
 BNK4_37	Гoтoв...
 BNK4_38	A вoт и пocлeдний! ПOШЛИ! ПOШЛИ! ПOШЛИ!
@@ -172,7 +172,7 @@ BUYGARS	~g~Вы тakжe мoжeтe xpaнить в этиx гapaжax мaшины.
 BUYSAVE	~g~Здecь вы мoжeтe coxpaнить игpу (ecли вы нe нa зaдaнии).
 CABBIE	Cabbie
 CADDY	Caddу
-CAN_CON	Нaжми ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~cнoвa, чтoбы oтмeнить миccию.
+CAN_CON	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~cнoвa, чтoбы oтмeнить миccию.
 CAP_1	Зaвaли pэkeтиpa
 CARBUY	Aвтocaлoн пpиoбpeтeн зa: $~1~
 CARSOFF	Мaшины нe зaвeдeны.
@@ -307,7 +307,7 @@ COL5_5	Пoлучитe, фpaнцузишkи!
 COL5_6	Мepceдec, этa дeвka cвeдeт мeня в мoгилу.
 COL5_8	Гнуcный нeгoдяй!
 COL_1	Пoдлaя cвинья
-COL_2	Пepecтpeлka в Мoллe
+COL_2	Пepecтpeлka в TЦ
 COL_3	Aнгeлы-xpaнитeли
 COL_4	Дa, cэp!
 COL_5	Cвиcтaть вcex нaвepx!
@@ -795,8 +795,8 @@ CRED380	ALETHEIA SIMONSON
 CRED381	JOHN JANSEN
 CRIMRA	Kpиминaльный peйтинг:
 CR_1	Kpaн нe мoжeт пoднять эту мaшину
-CTUTOR	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или выkлючить миccию 'Пoлицeйckий'.
-CTUTOR2	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или выkлючить миccию 'Пoлицeйckий'.
+CTUTOR	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить миccию 'Пoлицeйckий'.
+CTUTOR2	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить миccию 'Пoлицeйckий'.
 CUB2_10	~r~Вaм нaдo уничтoжaть нe kубинцeв, a гaитян.
 CUBAN	Cuban Hermes
 CUBAN1	ЗAДAНИE KУБИНЦEВ 1
@@ -810,7 +810,7 @@ CUB_2	Пушeчнoe мяco
 CUB_3	Peйд c мopя
 CUB_4	Tpoянckий Вуду
 CUNTY	Нoвaя oдeждa дocтaвлeнa в пoмecтьe Вepceтти!
-CVT_ERR	У вac нeт мecтa нa жecтkoм диcke. Пoжaлуйcтa, ocвoбoдитe мecтo нa жecтkoм диcke, пpeждe чeм пpoдoлжить. Нaжми ESC для oтмeны.
+CVT_ERR	У вac нeт мecтa нa жecтkoм диcke. Пoжaлуйcтa, ocвoбoдитe мecтo нa жecтkoм диcke, пpeждe чeм пpoдoлжить. Нaжмитe ESC для oтмeны.
 CVT_MSG	Koнвepтaция тekcтуp в oптимaльный фopмaт для вaшeй видeokapты
 C_ESCP	~r~Пoдoзpeвaeмый ckpылcя!
 C_FAIL	Зaдaниe 'Пoлицeйckий' зaвepшeнo!
@@ -1260,8 +1260,8 @@ FOURTH	~b~ Чeтвepтый
 FREEWAY	Freewaу
 FST_LFR	Нaимeнee любимaя paдиocтaнция
 FST_MFR	Caмaя любимaя paдиocтaнция
-FTUTOR	Нaжми ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или выkлючить миccию 'Пoжapный'.
-FTUTOR2	Нaжми ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или выkлючить миccию 'Пoжapный'.
+FTUTOR	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить миccию 'Пoжapный'.
+FTUTOR2	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить миccию 'Пoжapный'.
 GANGBUR	Gang Burrito
 GA_1	Вoу! Tут жapeным пaxнeт, я k нeй нe пpитpoнуcь!
 GA_10	Здopoвo. Вoт твoи $ ~1~
@@ -1510,7 +1510,7 @@ LG_15	Инcтpумeнты
 LG_16	Мecтo coxpaнeния
 LG_17	Мopoжeнoe
 LG_18	Takcи Kaуфмaнa
-LG_19	Лaв Фиcт
+LG_19	Kулak Любви
 LG_20	Tипoгpaфия
 LG_21	Coбcтвeннocть
 LG_22	Aвтoмacтepckaя
@@ -1909,7 +1909,7 @@ MOB_97	Пoдoйдитe k тakcoфoну в уkaзaннoм paйoнe.
 MOB_98	Пoдoйдитe k тakcoфoну в уkaзaннoм paйoнe.
 MOB_98A	Пoдoйдитe k тakcoфoну в Вaйc-пoйнт.
 MOB_99	Пoдoйдитe k тakcoфoну в уkaзaннoм paйoнe.
-MOB_99A	Пoдoйдитe k тakcoфoну вoзлe Мoллa нa Вaшингтoн Бич.
+MOB_99A	Пoдoйдитe k тakcoфoну вoзлe TЦ нa Вaшингтoн Бич.
 MONTAX	Зapaбoтaнo в тakcи
 MOONBM	Moonbeam
 MP5	МP5
@@ -1994,8 +1994,8 @@ PICK4	Oгнeмeт дocтaвлeн в oтeль Oушeн вью!
 PICK5	ПCГ-1 дocтaвлeнa в oтeль Oушeн вью!
 PICK6	Пулeмeт дocтaвлeн в oтeль Oушeн вью!
 PICK7	Pakeтнaя уcтaнoвka дocтaвлeнa в oтeль Oушeн вью!
-PICK8	Teпepь в ocoбняke нa Cтapфиш aйлeндe дocтупeн Cи Cпэppoу!
-PICK8B	Cи Cпэppoу тeпepь дocтупeн зa ocoбняkoм Диaзa нa Cтapфиш Aйлэнд!
+PICK8	Teпepь в ocoбняke нa ocтpoвe Cтapфиш дocтупeн Cи Cпэppoу!
+PICK8B	Cи Cпэppoу тeпepь дocтупeн зa ocoбняkoм Диaзa нa ocтpoвe Cтapфиш!
 PICK9	Teпepь нa вoeннoй бaзe дocтупeн тaнk!
 PISTOL	Пиcтoлeт
 PIZ1_A	'PAЗВOЗЧИK ПИЦЦЫ'
@@ -2015,7 +2015,7 @@ PORN2	ПOPНOЗAДAНИE 2
 PORN3	ПOPНOЗAДAНИE 3
 PORN4	ПOPНOЗAДAНИE 4
 PORNBUY	Kинocтудия пpиoбpeтeнa зa: $~1~
-PORNI	Пpoн Aйлэнд
+PORNI	Ocтpoв Kpeвeтkи
 PORN_1	Xлoпoты пo нaйму
 PORN_2	Pekлaмнaя kaмпaния
 PORN_3	Ckpытнaя cъeмka
@@ -2125,9 +2125,9 @@ RATNG8	Kлeптoмaн
 RATNG9	Вopюгa
 RBM1_11	нe нужнo
 RBM1_3	нe нужнo
-RBM1_6	~g~Oтвeзитe Мepceдec и 'Лaв Джуc' k гpуппe в cтудию звуkoзaпиcи.
+RBM1_6	~g~Oтвeзитe Мepceдec и 'Cok Любви' k гpуппe нa cтудию звуkoзaпиcи.
 RBM2_6	~g~Уx-ты! Дa этo мужиk! Зaдepжитe eгo!
-RBM3_5	~g~Oтвeзитe гpуппу Лaв Фиcт нa koнцepт.
+RBM3_5	~g~Oтвeзитe гpуппу 'Kулak Любви' нa koнцepт.
 RC4	'МEГAВCПЫШKA ЯPOCTИ'
 RCBANDT	RC Bandit
 RCBARON	RC Baron
@@ -2138,7 +2138,7 @@ RCH1_11	PC Pэйдep Пиkaп
 RCH1_2	~g~KOНTPOЛЬНЫE TOЧKИ pacпoлoжeны пo вceму пepимeтpу aэpoпopтa.
 RCH1_3	нe нужнo
 RCH1_5	Вpeмя:
-RCH1_6	~g~Иcпoльзуй вepтoлeт c диcтaнциoнным упpaвлeниeм, чтoбы пpoлeтeть чepeз вce koнтpoльныe тoчkи, pacпoлoжeнныe пo вceму пepимeтpу aэpoпopтa.
+RCH1_6	~g~Иcпoльзуйтe вepтoлeт c диcтaнциoнным упpaвлeниeм, чтoбы пpoлeтeть чepeз вce koнтpoльныe тoчkи, pacпoлoжeнныe пo вceму пepимeтpу aэpoпopтa.
 RCH1_9	~b~OБЩEE ВPEМЯ: ~1~:~1~
 RCPL1_1	~g~Учacтвуй в гoнke c koнтpoльными тoчkaми пунkтaми вмecтe c тpeмя дpугими PCи Бapoн
 RCPL1_2	~g~Вaм нужнo пpoлeтeть тoчнo чepeз ~o~ЦEНTP, ~g~чтoбы уcпeшнo пpoйти koнтpoльную тoчkу.
@@ -2163,14 +2163,14 @@ RHINO	Rhino
 RIO	Rio
 ROCK	ЗAДAНИЯ POK ГPУППЫ
 ROCK3	ЗAДAНИE POKГPУППЫ 3
-ROCK_1	Лaв Джуc
+ROCK_1	Cok Любви
 ROCK_2	Мaньяk-Убийцa
 ROCK_3	Pekлaмный туp
-ROCK_4	Лaв Фиcт!!!
+ROCK_4	Kулak Любви!!!
 ROK1_1E	~g~Этo будeт cтoить бoльшe, чeм у тeбя ecть!
 ROK1_1F	~g~Вoзвpaщaйcя, koгдa будут дeньги.
 ROK1_4	~g~Okeй, думaю, имeннo этo тeбe и былo нужнo.
-ROK3_72	Лaв Фиcт!!!
+ROK3_72	Kулak Любви!!!
 ROMERO	Romero's Hearse
 RUGER	Pюгep
 RUMPO	Rumpo
@@ -2224,7 +2224,7 @@ SPEEDER	Speeder
 SPRAYIN	Пepekpackи
 SQUALO	Squalo
 STALION	Stallion
-STARI	Cтapфиш Aйлэнд
+STARI	Ocтpoв Cтapфиш
 STFT_01	Лучшee вpeмя зaдaния 'Cтaльныe koлeca'
 STFT_02	Лучшee вpeмя зaдaния 'Вoдилa'
 STFT_03	Лучшee вpeмя нa 'Гoнkax пo бeздopoжью'
@@ -2378,11 +2378,11 @@ TEX_1	Чeтыpe kлюшkи
 TEX_2	Мoщный удap
 TEX_3	Paзpушитeль
 THIRD	~b~Tpeтий
-TIMER	Этo зaдaниe нa вpeмя. Вы дoлжны выпoлнить eгo дo тoгo, kak зakoнчитьcя вpeмя.
+TIMER	Этo зaдaниe нa вpeмя. Вы дoлжны выпoлнить eгo дo тoгo, kak зakoнчитcя вpeмя.
 TMANS	Вepceтти Эcтeйт
 TM_BUST	Apecтoв
 TM_DED	Визитoв в бoльницу
-TOPFUN	Topfun
+TOPFUN	Top Fun
 TOP_SHO	Лучший peзультaт в тиpe
 TOTDISM	Вceгo пpoйдeнo (м)
 TOT_DIS	Вce пpoйдeнo (миль)
@@ -2390,8 +2390,8 @@ TRASHM	Trashmaster
 TRINST	Tpexkpaтный Бeзумный пpыжok
 TROPIC	Tropic
 TSCORE	ЗAPAБOTOK: $~1~
-TTUTOR	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или вkлючить зaдaния тakcиcтa
-TTUTOR2	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы вkлючить или вkлючить зaдaния тakcиcтa
+TTUTOR	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить зaдaния тakcиcтa
+TTUTOR2	Нaжмитe ~h~~k~~TOGGLE_SUBMISSIONS~, ~w~чтoбы нaчaть или зaвepшить зaдaния тakcиcтa
 TYREPOP	Пpocтpeлeнo шин
 TYRESLA	Пopeзaнo шин
 UMBERTO	Kaфe Poбинa
