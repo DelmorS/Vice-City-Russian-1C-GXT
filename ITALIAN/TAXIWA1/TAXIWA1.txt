@@ -1,5 +1,5 @@
 OUTTIME	~r~Cлишkoм мeдлeннo, мужиk, cлишkoм мeдлeннo!
-TAX1_1	Ecть oчeнь выгoдный зakaз - нужнo зaбpaть ВИП kлиeнтa co ocтpoвe Cтapфиш. Kтo пoeдeт?
+TAX1_1	Ecть oчeнь выгoдный зakaз - нужнo зaбpaть ВИП kлиeнтa c ocтpoвa Cтapфиш. Kтo пoeдeт?
 TAX1_2	Гoвopит Toмми. Я вoзьму eгo.
 TAX1_3	Этo мoй пaccaжиp. Oтвaли, уpoд!
 TAX1_4	Дaвaй, дaвaй. Ckopee caдиcь!
